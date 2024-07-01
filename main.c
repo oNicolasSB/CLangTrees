@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <graphviz/xdot.h>
 #include "binarySearchTree.c"
 
 int main()
